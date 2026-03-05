@@ -1,0 +1,1 @@
+Esse diretório foi criado para colocar meus projetos em python - apenas fontes de projetos meus.
